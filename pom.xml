@@ -32,7 +32,7 @@
             <url>http://localhost:8081/nexus/content/repositories/SR/</url>
         </repository>
         <snapshotRepository>
-            <id>SSt</id>
+            <id>SS</id>
             <name>Sample-SNAP</name>
             <url>http://localhost:8081/nexus/content/repositories/SS/</url>
         </snapshotRepository>
