@@ -27,13 +27,13 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>SR</id>
-            <name>Sample_RELEASE</name>
+            <id>deployment</id>
+            <name>Internal Releases</name>
             <url>http://localhost:8081/nexus/content/repositories/SR/</url>
         </repository>
         <snapshotRepository>
-            <id>SS</id>
-            <name>Sample-SNAP</name>
+            <id>deployment</id>
+            <name>Internal Snapshot Releases</name>
             <url>http://localhost:8081/nexus/content/repositories/SS/</url>
         </snapshotRepository>
     </distributionManagement>
