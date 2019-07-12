@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
-   <servers>
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <servers>
      <server>
        <id>nexus</id>
-       <username>deployment</username>
-       <password>deployment123</password>
+       <username>admin</username>
+       <password>{Vy7MoNyuCF0HhtCTURTSc7lRxeYyk06xqwE5ACXtt7U=}</password>
      </server>
    </servers>
-
-   <pluginGroups></pluginGroups>
+  <pluginGroups></pluginGroups>
    <proxies></proxies>
    <mirrors></mirrors>
    <profiles></profiles>
-</settings>
+</settings>    
